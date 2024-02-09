@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 14:36:22 On 09.02.2024
+
+Output: TD.0002-100
+Type  : BOM
+From  : Variant [-00] of Project [TD.0002-100.PrjPcb]
+   Generated File[TD.0002-100.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:36:22 On 09.02.2024
