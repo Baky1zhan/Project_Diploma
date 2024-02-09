@@ -1,0 +1,9 @@
+*
+!.gitignore
+!*.PrjPcb
+!*.SchDoc
+!*.PcbDoc
+!*.PCBDwf
+!*.OutJob
+!*.Harness
+!*.Annotation
