@@ -1,0 +1,12 @@
+Output: Drill
+Type  : NC Drill
+From  : PCB Document [TD.0002-101.PcbDoc]
+   Generated File[TD.0002-101.TXT]
+   Generated File[TD.0002-101.LDP]
+   Generated File[TD.0002-101.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:45:32 On 10.06.2024

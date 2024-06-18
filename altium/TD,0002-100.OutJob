@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=TD,0002-100.OutJob
 Description=
-TargetOutputMedium=Gerber
+TargetOutputMedium=›3
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=Adobe PDF
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=›3
 OutputMedium1_Type=Publish
@@ -34,7 +34,7 @@ OutputMedium4_Type=GeneratedFiles
 OutputMedium5=Gerber
 OutputMedium5_Type=GeneratedFiles
 OutputType1=BOM_PartType
-OutputName1=RS.0027-100_bom
+OutputName1=TD.0002-100
 OutputCategory1=Report
 OutputDocumentPath1=
 OutputVariantName1=-00
@@ -53,7 +53,7 @@ Configuration1_Item2=OpenExported=False|AddToProject=False|ForceFit=True|NotFitt
 Configuration1_Name3=GroupOrder
 Configuration1_Item3=
 Configuration1_Name4=OutputConfigurationParameter1
-Configuration1_Item4=|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LeadingAndTrailingZeroesMode=SuppressTrailingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908290~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False
+Configuration1_Item4=|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LeadingAndTrailingZeroesMode=SuppressTrailingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908290~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|DocumentPath=[Project]
 Configuration1_Name5=PCBDocument
 Configuration1_Item5=FileName=RM.2140-100.PcbDoc
 Configuration1_Name6=SortOrder
@@ -61,7 +61,7 @@ Configuration1_Item6=
 Configuration1_Name7=VisibleOrder
 Configuration1_Item7=Designator=42|Comment=69|Value=48|Fitted=34|Rated voltage=47|Rated current=46|Description=252|Quantity=38|Manufacturer=53|Size=20|TC=20|Temperature range=53|Tolerance=41|Type=109|Number of capacitors=53|Number of resistors=52|Color=38|Center-X(mm)=46|Center-Y(mm)=46|Layer=34|Rotation=41|ApprovedBy=83|DrawnBy=69|CheckedBy=79|NormInspection=99|Index=51|Organization=103|ProjectName=125|Title=50|Title1str=60|Title2str=60|Variant=57
 OutputType2=ExportSTEP
-OutputName2=RS.0027-100.step
+OutputName2=TD.0002-101
 OutputCategory2=Export
 OutputDocumentPath2=
 OutputVariantName2=-00
@@ -75,11 +75,11 @@ OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ComponentSuffixType=0|ComponentSuffix=|DocumentPath=C:\Users\¡‡Í˚ÚÊ‡Ì\GIT\td.0002-hw\altium\TD.0002-101.PcbDoc
 OutputType3=Schematic Print
-OutputName3=RS.0027-100 ›3
+OutputName3=TD.0002-100
 OutputCategory3=Documentation
 OutputDocumentPath3=[Project Physical Documents]
 OutputVariantName3=-00
-OutputEnabled3=0
+OutputEnabled3=1
 OutputEnabled3_OutputMedium1=1
 OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=0
@@ -88,13 +88,13 @@ OutputEnabled3_OutputMedium5=0
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A4
 Configuration3_Name1=OutputConfigurationParameter1
-Configuration3_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=True|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
+Configuration3_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=True|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=[Project Physical Documents]
 OutputType4=Gerber
 OutputName4=Gerber
 OutputCategory4=Fabrication
-OutputDocumentPath4=RS.0027-101.PcbDoc
+OutputDocumentPath4=TD.0002-101.PcbDoc
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=0
@@ -106,9 +106,9 @@ Configuration4_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TL
 OutputType5=NC Drill
 OutputName5=Drill
 OutputCategory5=Fabrication
-OutputDocumentPath5=RS.0027-101.PcbDoc
+OutputDocumentPath5=TD.0002-101.PcbDoc
 OutputVariantName5=
-OutputEnabled5=1
+OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=0
@@ -118,29 +118,29 @@ OutputDefault5=0
 Configuration5_Name1=OutputConfigurationParameter1
 Configuration5_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
 OutputType6=Schematic Print
-OutputName6=RS.0027-100-01 ›3
+OutputName6=TD.0002-100
 OutputCategory6=Documentation
 OutputDocumentPath6=[Project Physical Documents]
 OutputVariantName6=-01
 OutputEnabled6=0
-OutputEnabled6_OutputMedium1=2
+OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
 OutputEnabled6_OutputMedium3=0
 OutputEnabled6_OutputMedium4=0
 OutputEnabled6_OutputMedium5=0
 OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=ANSI C|PaperIndex=121
 Configuration6_Name1=OutputConfigurationParameter1
-Configuration6_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=True|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
+Configuration6_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=True|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=[Project Physical Documents]
 OutputType7=BOM_PartType
-OutputName7=RS.0027-100-01_bom
+OutputName7=TD.0002-100
 OutputCategory7=Report
 OutputDocumentPath7=
 OutputVariantName7=-01
 OutputEnabled7=0
 OutputEnabled7_OutputMedium1=0
 OutputEnabled7_OutputMedium2=0
-OutputEnabled7_OutputMedium3=2
+OutputEnabled7_OutputMedium3=0
 OutputEnabled7_OutputMedium4=0
 OutputEnabled7_OutputMedium5=0
 OutputDefault7=0
@@ -160,7 +160,7 @@ Configuration7_Item6=
 Configuration7_Name7=VisibleOrder
 Configuration7_Item7=Designator=42|Comment=69|Value=48|Fitted=34|Rated voltage=47|Rated current=46|Description=252|Quantity=38|Manufacturer=53|Size=20|TC=20|Temperature range=53|Tolerance=41|Type=109|Number of capacitors=53|Number of resistors=52|Color=38|Center-X(mm)=46|Center-Y(mm)=46|Layer=34|Rotation=41|ApprovedBy=83|DrawnBy=69|CheckedBy=79|NormInspection=99|Index=51|Organization=103|ProjectName=125|Title=50|Title1str=60|Title2str=60|Variant=57
 OutputType8=ExportSTEP
-OutputName8=RS.0027-100-01.step
+OutputName8=TD.0002-101
 OutputCategory8=Export
 OutputDocumentPath8=
 OutputVariantName8=-01
@@ -174,7 +174,7 @@ OutputDefault8=0
 Configuration8_Name1=OutputConfigurationParameter1
 Configuration8_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ComponentSuffixType=0|ComponentSuffix=
 OutputType9=PCBDrawing
-OutputName9=RS.0027-100 —¡
+OutputName9=TD.0002-100
 OutputCategory9=Documentation
 OutputDocumentPath9=TD.0002-100.PCBDwf
 OutputVariantName9=-00
@@ -187,13 +187,13 @@ OutputEnabled9_OutputMedium5=0
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType10=PCBDrawing
-OutputName10=RS.0027-100-01 —¡
+OutputName10=TD.0002-100
 OutputCategory10=Documentation
 OutputDocumentPath10=TD.0002-100.PCBDwf
 OutputVariantName10=-01
 OutputEnabled10=0
 OutputEnabled10_OutputMedium1=0
-OutputEnabled10_OutputMedium2=2
+OutputEnabled10_OutputMedium2=0
 OutputEnabled10_OutputMedium3=0
 OutputEnabled10_OutputMedium4=0
 OutputEnabled10_OutputMedium5=0
